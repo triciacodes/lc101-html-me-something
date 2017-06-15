@@ -1,0 +1,116 @@
+html {
+    font-size: 62.5%;
+} 
+
+body {
+    background-color: #FCFCF9;
+    color: #555;
+    font-family: 'Work Sans', sans-serif;
+}
+
+/* - - - - - - - - - - HEADER - - - - - - - - - - */
+
+header {
+    margin: auto;
+    margin-top: 5rem;
+    width: 70%;
+}
+
+header h1 {
+    font-size: 4.8rem;
+    font-weight: 200;
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+/* - - - - - - - - - - NAV - - - - - - - - - - */
+
+nav {
+    text-align: center;
+    margin-bottom: 6rem;
+}
+
+nav ul li a:link, nav ul li a:visited, nav ul li a:active {
+    color: #FCFCF9;
+    font-size: 1.4rem;
+    margin: 0 1.5rem 0 1.5rem;
+    padding: .5rem;
+    background-color: #DB2C86;
+    opacity: 0.7;
+}
+
+nav ul li a:hover {
+    opacity: 1.0;
+}
+
+nav li {
+    display: inline;
+}
+
+main {
+    margin: auto;
+    width: 70%;
+}
+
+/* - - - - - - - - - - ARTICLES - - - - - - - - - - */
+
+article {
+    margin-bottom: 4.0rem;
+    padding-bottom: 5.0rem;
+    border-bottom: 0.2rem dashed #999;
+}
+
+/* - - - - - - - - - - FOOTER - - - - - - - - - - */
+
+footer {
+    padding: 1rem 1rem 1rem 1rem;
+    font-size: 1.2rem;
+    color: #999;
+    background-color: #1FCDC5;
+    color: #FCFCF9;
+}
+
+/* - - - - - - - - - - OVERRIDES - - - - - - - - - - */
+
+.last {
+    border-bottom: 0;
+    margin-bottom: 1rem;
+}
+
+#portland h2 {
+    color: #DB2C86;
+}
+
+/* - - - - - - - - - - FONTS - - - - - - - - - - */
+
+h2 {
+    color: #1FCDC5;
+    font-weight: 200;
+    font-size: 3.6rem;
+    margin-bottom: 2rem;
+    letter-spacing: .2rem;
+}
+
+p {
+    font-weight: 400;
+    font-size: 1.8rem;
+    margin-top: 1.5rem;
+}
+
+/* - - - - - - - - - - LINKS - - - - - - - - - - */
+
+a:link {
+    color: #DB2C86;
+    text-decoration: none;
+}
+
+a:hover, a:visited {
+    color: #1FCDC5;
+    text-decoration: none;
+}
+
+/* - - - - - - - - - - IMAGES - - - - - - - - - - */
+
+img {
+    width: 100%
+}
