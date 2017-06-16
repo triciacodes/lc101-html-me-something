@@ -73,6 +73,11 @@ footer {
 
 /* - - - - - - - - - - OVERRIDES - - - - - - - - - - */
 
+.first {
+    border-top: 0.2rem dashed #999;
+    padding-top: 3.0rem;
+}
+
 .last {
     border-bottom: 0;
     margin-bottom: 1rem;
