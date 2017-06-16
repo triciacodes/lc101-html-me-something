@@ -17,7 +17,7 @@ header {
 }
 
 header h1 {
-    font-size: 4.8rem;
+    font-size: 6.8rem;
     font-weight: 200;
     text-align: center;
     margin-bottom: 3rem;
@@ -59,6 +59,7 @@ article {
     padding-bottom: 5.0rem;
     border-bottom: 0.2rem dashed #999;
 }
+
 
 /* - - - - - - - - - - FOOTER - - - - - - - - - - */
 
